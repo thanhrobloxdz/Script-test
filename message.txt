@@ -1,6 +1,6 @@
--- donki gay
+-- Soigaming chào mọi người
 
-shared.LoaderTitle = "Đăng Ký Donki Roblox Yt = Gay ";
+shared.LoaderTitle = "Folo sói hack script Ko folo = Gay ";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -104,7 +104,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Donki Roblox [ V1 ]",
+    Text = "Soigaming [ V1 ]",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -312,7 +312,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiHub111/Gui11/refs/heads/main/Idk"))();
 local v15 = v14:CreateWindow({
-    Title = "Donki RobloxV1",
+    Title = "Soigaming v2",
     SubTitle = "Version 1",
     TabWidth = 160,
     Theme = "Light",
@@ -2632,7 +2632,7 @@ v23.BorderSizePixel = 0;
 v23.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
 v23.Size = UDim2.new(0, 50, 0, 50);
 v23.Draggable = true;
-v23.Image = "http://www.roblox.com/asset/?id=103985507475473";
+v23.Image = "http://www.roblox.com/asset/?id=137553637039368";
 v24.Parent = v23;
 v24.CornerRadius = UDim.new(0, 12);
 v25.Parent = v23;
@@ -3873,7 +3873,7 @@ if Sea3 then
             _G.AutoFindPrehistoric = false;
             if not v513 then
                 v14:Notify({
-                    Title = "Donki Roblox",
+                    Title = "soi gaming",
                     Content = "Đảo Dung Nham Tìm Thấy|found volcano!!",
                     Duration = 10
                 });
@@ -3967,7 +3967,7 @@ if Sea3 then
             _G.AutoFindMirage = false;
             if not v513 then
                 v14:Notify({
-                    Title = "Donki Roblox",
+                    Title = "soi gaming",
                     Content = "Đảo Bí Ẩn Tìm Thấy|found mirage!",
                     Duration = 10
                 });
@@ -4633,15 +4633,15 @@ if Sea3 then
         while task.wait() do
             pcall(function()
                 local v793 = game:GetService("Lighting").Sky.MoonTextureId;
-                if (v793 == "http://www.roblox.com/asset/?id=9709149431") then
+                if (v793 == "http://www.roblox.com/asset/?id=137553637039368") then
                     FullMoonStatus = "100%";
-                elseif (v793 == "http://www.roblox.com/asset/?id=9709149052") then
+                elseif (v793 == "http://www.roblox.com/asset/?id=137553637039368") then
                     FullMoonStatus = "75%";
-                elseif (v793 == "http://www.roblox.com/asset/?id=9709143733") then
+                elseif (v793 == "http://www.roblox.com/asset/?id=137553637039368") then
                     FullMoonStatus = "50%";
-                elseif (v793 == "http://www.roblox.com/asset/?id=9709150401") then
+                elseif (v793 == "http://www.roblox.com/asset/?id=137553637039368") then
                     FullMoonStatus = "25%";
-                elseif (v793 == "http://www.roblox.com/asset/?id=9709149680") then
+                elseif (v793 == "http://www.roblox.com/asset/?id=137553637039368") then
                     FullMoonStatus = "15%";
                 else
                     FullMoonStatus = "0%";
